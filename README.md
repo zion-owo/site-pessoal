@@ -1,17 +1,12 @@
 # Página Pessoal
 
-Bem-vindo à minha página pessoal! 🎉
+Aqui é basicamente o código do meu site pessoal, apenas para todo mundo ver a bagunça que é essa coisa aqui :v
 
-Aqui você encontrará algumas informações sobre mim, projetos e outras coisas que resolvi compartilhar. Já aviso de antemão: **tem gambiarra** e tá meio bagunçado mesmo, mas é o que temos, né?
+## Sobre a página e os códigos
 
-## Sobre Mim
+Tudo aqui foi feito na base da gambiarra e outros com uma ajudinha especial de IA (o que tá bagunçado já sabemos que foi eu mesmo)
 
-- **Nome:** Zion
-- **Interesses:** Tecnologia, música, idiomas, e aprender coisas novas
+E qualquer coisinha, pode me mandar algo por aqui ó:
 - **Contato:** ZionTheCatcoon em praticamente toda rede social
 
-## Aviso
-
-Essa página está em constante evolução (ou bagunça, dependendo do ponto de vista). Algumas partes foram feitas na base da criatividade e improviso, então não espere perfeição~
-
-Obrigado por visitar e sinta-se à vontade para explorar!
+Para acessar o site: http://hazwitz.me
